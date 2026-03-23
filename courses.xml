@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<courses>
+    <course>
+        <title>Web Development</title>
+        <instructor>John</instructor>
+        <price>2000</price>
+    </course>
+
+    <course>
+        <title>Data Structures</title>
+        <instructor>Smith</instructor>
+        <price>2500</price>
+    </course>
+</courses>
